@@ -1,1 +1,2 @@
-This is my first upload to GitHub.
+print("hello bhavani")
+print("my first python code")
